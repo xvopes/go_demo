@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4241549f-9621-4600-b836-d2fdc5f3a9ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gin_demo/hello.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/hello.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_demo/gin_demo" beforeDir="false" afterPath="$PROJECT_DIR$/gin_demo/gin_demo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_demo/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_demo/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
@@ -24,6 +30,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -38,24 +45,25 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;init&quot;" />
     <MESSAGE value="&quot;gin_demo&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;gin_demo&quot;" />
+    <MESSAGE value="&quot;template&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;template&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="786" y="145" key="#Build_Tags_&amp;_Vendoring" timestamp="1584635707399">
       <screen x="0" y="23" width="1920" height="988" />
     </state>
     <state x="786" y="145" key="#Build_Tags_&amp;_Vendoring/0.23.1920.988@0.23.1920.988" timestamp="1584635707399" />
-    <state x="1350" y="518" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584635480693">
+    <state x="1350" y="518" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584637039865">
       <screen x="0" y="23" width="1920" height="988" />
     </state>
-    <state x="1350" y="518" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.988@0.23.1920.988" timestamp="1584635480693" />
-    <state x="617" y="135" key="CommitChangelistDialog2" timestamp="1584635269205">
+    <state x="1350" y="518" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.988@0.23.1920.988" timestamp="1584637039865" />
+    <state x="617" y="135" key="CommitChangelistDialog2" timestamp="1584636745587">
       <screen x="0" y="23" width="1920" height="988" />
     </state>
-    <state x="617" y="135" key="CommitChangelistDialog2/0.23.1920.988@0.23.1920.988" timestamp="1584635269205" />
-    <state x="560" y="257" key="Vcs.Push.Dialog.v2" timestamp="1584635270571">
+    <state x="617" y="135" key="CommitChangelistDialog2/0.23.1920.988@0.23.1920.988" timestamp="1584636745587" />
+    <state x="560" y="257" key="Vcs.Push.Dialog.v2" timestamp="1584636748365">
       <screen x="0" y="23" width="1920" height="988" />
     </state>
-    <state x="560" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.988@0.23.1920.988" timestamp="1584635270571" />
+    <state x="560" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.988@0.23.1920.988" timestamp="1584636748365" />
   </component>
 </project>
