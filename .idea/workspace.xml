@@ -6,10 +6,22 @@
   </component>
   <component name="ProjectId" id="1ZM3MCBiLQCgvGpQWEg9p5hJeoU" />
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="135" key="CommitChangelistDialog2" timestamp="1584635135298">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="617" y="135" key="CommitChangelistDialog2/0.23.1920.988@0.23.1920.988" timestamp="1584635135298" />
+    <state x="560" y="257" key="Vcs.Push.Dialog.v2" timestamp="1584635151656">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="560" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.988@0.23.1920.988" timestamp="1584635151656" />
   </component>
 </project>

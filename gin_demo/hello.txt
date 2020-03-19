@@ -1,0 +1,9 @@
+<h1 style='color:orange'>Hello Golang!</h1>
+<h2>how are you!</h2>
+<img id='i1' src='https://res.mackext.com/wp-content/uploads/2017/06/heipingguo-hd4400-hd4600-kext-ss1.jpg'>
+<button id='b1'>点我</button>
+<script>
+document.getElementById('b1').onclick=function(){
+    document.getElementById('i1').src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584270800417&di=3341bd71bfde8c9fe2e7c5f0a85f36f5&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fwatermark%2F7e212724389c5b9906b07f2239659af443fa0fce.jpg'
+}
+</script>
