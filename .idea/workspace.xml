@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4241549f-9621-4600-b836-d2fdc5f3a9ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson05/hello.tmpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson05/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson05/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/lesson05/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +56,13 @@
       <screen x="0" y="23" width="1920" height="988" />
     </state>
     <state x="1350" y="518" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.988@0.23.1920.988" timestamp="1584637039865" />
-    <state x="617" y="135" key="CommitChangelistDialog2" timestamp="1584636745587">
+    <state x="617" y="135" key="CommitChangelistDialog2" timestamp="1584637801880">
       <screen x="0" y="23" width="1920" height="988" />
     </state>
-    <state x="617" y="135" key="CommitChangelistDialog2/0.23.1920.988@0.23.1920.988" timestamp="1584636745587" />
-    <state x="560" y="257" key="Vcs.Push.Dialog.v2" timestamp="1584636748365">
+    <state x="617" y="135" key="CommitChangelistDialog2/0.23.1920.988@0.23.1920.988" timestamp="1584637801880" />
+    <state x="560" y="257" key="Vcs.Push.Dialog.v2" timestamp="1584637803656">
       <screen x="0" y="23" width="1920" height="988" />
     </state>
-    <state x="560" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.988@0.23.1920.988" timestamp="1584636748365" />
+    <state x="560" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.988@0.23.1920.988" timestamp="1584637803656" />
   </component>
 </project>

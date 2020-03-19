@@ -21,12 +21,18 @@ func sayHello(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	//渲染模版
-	u1 := User{
-		Name:   "小王子",
-		Gender: "男",
-		Age:    23,
+	//u1 := User{
+	//	Name:   "小王子",
+	//	Gender: "男",
+	//	Age:    23,
+	//}
+
+	m1 := map[string]interface{}{
+		"Name":   "小王子",
+		"Gender": "男",
+		"Age":    23,
 	}
-	t.Execute(w, u1)
+	t.Execute(w, m1)
 }
 
 func main() {
