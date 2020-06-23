@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4241549f-9621-4600-b836-d2fdc5f3a9ff" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson05/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/lesson05/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
   <component name="ProjectId" id="1ZM3MCBiLQCgvGpQWEg9p5hJeoU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,6 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,13 +59,13 @@
       <screen x="0" y="23" width="1920" height="988" />
     </state>
     <state x="1350" y="518" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.988@0.23.1920.988" timestamp="1584637039865" />
-    <state x="617" y="135" key="CommitChangelistDialog2" timestamp="1584638069388">
+    <state x="617" y="135" key="CommitChangelistDialog2" timestamp="1584638076859">
       <screen x="0" y="23" width="1920" height="988" />
     </state>
-    <state x="617" y="135" key="CommitChangelistDialog2/0.23.1920.988@0.23.1920.988" timestamp="1584638069388" />
-    <state x="560" y="257" key="Vcs.Push.Dialog.v2" timestamp="1584637803656">
+    <state x="617" y="135" key="CommitChangelistDialog2/0.23.1920.988@0.23.1920.988" timestamp="1584638076859" />
+    <state x="560" y="257" key="Vcs.Push.Dialog.v2" timestamp="1584638078516">
       <screen x="0" y="23" width="1920" height="988" />
     </state>
-    <state x="560" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.988@0.23.1920.988" timestamp="1584637803656" />
+    <state x="560" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.988@0.23.1920.988" timestamp="1584638078516" />
   </component>
 </project>
